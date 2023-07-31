@@ -8,7 +8,7 @@ const MyForm = () => {
   };
 
   const fields = [
-    { name: 'fullName', type: 'text', label: 'Full Name' },
+    { name: 'name', type: 'text', label: 'Name' },
     { name: 'email', type: 'email', label: 'Email' },
     { name: 'password', type:'password',label:'Password'},
   ];
